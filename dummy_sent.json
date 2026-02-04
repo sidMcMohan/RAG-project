@@ -1,0 +1,142 @@
+[
+  {
+    "id": "20260201141907",
+    "to": "kannikagiri01@gmail.com",
+    "subject": "Re: cancel order",
+    "body": "Based on similar cases, here's the solution:\n\n**Issue:** cancel order\n\n**Solution:** I've realized that you're seeking assistance in canceling an order. I'll be happy to guide you through the process. Could you please provide me with the order number or any relevant details about the order you would like to cancel? With that information, I'll be able to provide you with the specific steps to cancel your order successfully.\n\n**Confidence Level:** 70.8%\n\n---\n\n**Other Similar Cases Found:**\n1. Case #289: i do not want my last bloody item, cancel order {{order number}} (Confidence: 70.4%)\n2. Case #18: i bought the same item twice, cancel order {{order number}} (Confidence: 69.6%)\n3. Case #967: question about canceling order {{order number}} (Confidence: 69.5%)\n4. Case #584: i purchased some items, help me cancel order {{order number}} (Confidence: 69.1%)\n",
+    "original_query": "want to cancel order ,due to ordering twice ",
+    "sent_time": "2026-02-01T14:19:07.728089",
+    "metadata": {
+      "similar_cases": [
+        {
+          "case_number": 992,
+          "product": "ORDER",
+          "description": "cancel order",
+          "resolution": "I've realized that you're seeking assistance in canceling an order. I'll be happy to guide you through the process. Could you please provide me with the order number or any relevant details about the order you would like to cancel? With that information, I'll be able to provide you with the specific steps to cancel your order successfully.",
+          "suggested_solution": "nan",
+          "similarity_score": 0.7078575151995029,
+          "feedback_score": NaN
+        },
+        {
+          "case_number": 289,
+          "product": "ORDER",
+          "description": "i do not want my last bloody item, cancel order {{order number}}",
+          "resolution": "I'm picking up what you're putting down, your request to cancel your order with the order number {{Order Number}}. I apologize for any inconvenience caused. To assist you with the cancellation process, please follow these steps:\n\n1. Log in to your account: Access our platform and log in using your credentials.\n2. Go to \"Order History\": Once logged in, navigate to the \"Order History\" or \"My Orders\" section.\n3. Locate your order: Look for the order labeled with the order number {{Order Number}} and click on it.\n4. Initiate cancellation: Within the order details page, you should find an option to \"Cancel Order.\" Please select this option.\n5. Confirm cancellation: The system may prompt you to confirm the cancellation. Make sure to review the details and confirm your request.\n\nIf you encounter any difficulties or have further questions, our dedicated customer support team is available to assist you during {{Customer Support Hours}}. You can reach us at {{Customer Support Phone Number}} or through the Live Chat feature on our {{Website URL}}. Your satisfaction is our top priority, and we're here to help!",
+          "suggested_solution": "nan",
+          "similarity_score": 0.7040568976910659,
+          "feedback_score": NaN
+        },
+        {
+          "case_number": 18,
+          "product": "ORDER",
+          "description": "i bought the same item twice, cancel order {{order number}}",
+          "resolution": "I understand the frustration that arises when purchasing the same item twice, and I'm here to assist you in canceling order {{Order Number}}. To resolve this situation, follow these steps:\n\n1. Sign into Your Account: Access our platform by signing in to your {{Online Company Portal Info}}.\n2. Locate Your Orders: Once logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Identify the Duplicate Purchase: Look for the order with the number {{Order Number}}. Please click on it for further details.\n4. Initiate Cancellation: Within the order details, you will find the '{{Online Order Interaction}}' option. Select this to proceed with the cancellation.\n5. Confirmation and Feedback: The system may prompt you for confirmation or feedback. Kindly provide the necessary information.\n\nIf you encounter any difficulties or have any additional questions, our dedicated support team is available during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our {{Website URL}}. Our goal is to ensure your satisfaction, and we appreciate your understanding as we rectify this error.",
+          "suggested_solution": "nan",
+          "similarity_score": 0.6957680672771094,
+          "feedback_score": NaN
+        },
+        {
+          "case_number": 967,
+          "product": "ORDER",
+          "description": "question about canceling order {{order number}}",
+          "resolution": "I understand you have a question regarding canceling order {{Order Number}}. I'm here to assist you and provide the information you need. Could you please clarify what specific question you have about canceling this order? This will help me to provide you with a more accurate and tailored answer. Thank you.",
+          "suggested_solution": "nan",
+          "similarity_score": 0.6949674785043786,
+          "feedback_score": NaN
+        },
+        {
+          "case_number": 584,
+          "product": "ORDER",
+          "description": "i purchased some items, help me cancel order {{order number}}",
+          "resolution": "I acknowledge that you have recently made a purchase and would now like to cancel the order with the order number {{Order Number}}. I understand that circumstances can change, and I'm here to assist you with the cancellation process. Let's take the necessary steps together to ensure your satisfaction.",
+          "suggested_solution": "nan",
+          "similarity_score": 0.6906762216044211,
+          "feedback_score": NaN
+        }
+      ],
+      "confidence": 0.7078575151995029,
+      "top_case_id": 992,
+      "product": "ORDER"
+    }
+  },
+  {
+    "id": "20260203134831",
+    "to": "abcd@gmail.com",
+    "subject": "Re: upgrade subscription",
+    "body": "I found a potentially relevant match for your query (confidence: 55.0%):\n\n**Case ID:** 24763\n\n**Issue:** ACCOUNT\n\n**Resolution:**\nSure! I'm here to guide you on how to use our premium account effectively and enjoy its exclusive benefits:\n\n1. Access Your Account: Start by logging into our platform using your credentials.\n2. Account Settings: Once logged in, navigate to your account settings or profile page.\n3. Upgrade Option: Look for an option labeled \"Upgrade\" or \"Switch Account Type\".\n4. Choose {{Account Category}}: Select the option for \"{{Account Category}} Account\" from the available choices.\n5. Follow the Prompts: Follow the on-screen prompts and instructions to complete the upgrade process.\n\nIf you encounter any difficulties or have additional questions, feel free to reach out. We're committed to providing you with an exceptional premium experience. Enjoy the added perks and features of your premium account!\n\n---\n**Other related cases you might find helpful:**\n\n1. **Case ID:** 24051 (similarity: 54.0%)\n**Issue:** using premium account\n2. **Case ID:** 24263 (similarity: 51.0%)\n**Issue:** wanna use the premium account\n3. **Case ID:** 14192 (similarity: 50.5%)\n**Issue:** updating premium account",
+    "original_query": "want to upgrade subscription since the platform is good",
+    "sent_time": "2026-02-03T13:48:31.261086",
+    "metadata": {
+      "matches_found": 7,
+      "confidence": 0.5500689148902893,
+      "top_case": {
+        "id": "24763",
+        "title": "ACCOUNT",
+        "similarity_score": 0.5500689148902893
+      },
+      "related_cases": [
+        {
+          "id": "24763",
+          "title": "ACCOUNT",
+          "similarity_score": 0.5500689148902893
+        },
+        {
+          "id": "24051",
+          "title": "ACCOUNT",
+          "similarity_score": 0.539926290512085
+        },
+        {
+          "id": "24263",
+          "title": "ACCOUNT",
+          "similarity_score": 0.5096054673194885
+        },
+        {
+          "id": "14192",
+          "title": "ACCOUNT",
+          "similarity_score": 0.5053254961967468
+        },
+        {
+          "id": "23969",
+          "title": "ACCOUNT",
+          "similarity_score": 0.5031642317771912
+        }
+      ],
+      "uses_milvus": true
+    }
+  },
+  {
+    "id": "20260204162447",
+    "to": "kannikagiri01@gmail.com",
+    "subject": "Re: what is covid 19",
+    "body": "I found a potentially relevant match for your query (confidence: 57.7%):\n\n**Case ID:** 4391\n\n**Issue:** Covid-19 is though to have arisen from what species?\n\n**Resolution:**\nCOVID-19 caused by SARS-CoV-2 most likely originated in bats and transmitted to humans through a possible intermediate host.\n\n---\n**Other related cases you might find helpful:**\n\n1. **Case ID:** 3758 (similarity: 53.1%)\n**Issue:**\nWhat is LY-CoV555?\n2. **Case ID:** 4536 (similarity: 53.1%)\n**Issue:**\nWhat is the incubation period for COVID-19?",
+    "original_query": "i need detail info on this",
+    "sent_time": "2026-02-04T16:24:47.458380",
+    "metadata": {
+      "matches_found": 3,
+      "confidence": 0.5768594741821289,
+      "top_case": {
+        "id": "4391",
+        "title": "Covid-19 is though to have arisen from what species?",
+        "similarity_score": 0.5768594741821289
+      },
+      "related_cases": [
+        {
+          "id": "4391",
+          "title": "Covid-19 is though to have arisen from what species?",
+          "similarity_score": 0.5768594741821289
+        },
+        {
+          "id": "3758",
+          "title": "What is LY-CoV555?",
+          "similarity_score": 0.5309228301048279
+        },
+        {
+          "id": "4536",
+          "title": "What is the incubation period for COVID-19?",
+          "similarity_score": 0.5309096574783325
+        }
+      ],
+      "uses_milvus": true
+    }
+  }
+]

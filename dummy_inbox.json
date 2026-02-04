@@ -1,0 +1,29 @@
+[
+  {
+    "id": "20260201141907",
+    "sender": "kannikagiri01@gmail.com",
+    "subject": "cancel order",
+    "body": "want to cancel order ,due to ordering twice ",
+    "received_time": "2026-02-01T14:19:07.182684",
+    "status": "read",
+    "processed_time": "2026-02-01T14:19:07.732416"
+  },
+  {
+    "id": "20260203134824",
+    "sender": "abcd@gmail.com",
+    "subject": "upgrade subscription",
+    "body": "want to upgrade subscription since the platform is good",
+    "received_time": "2026-02-03T13:48:24.370144",
+    "status": "read",
+    "processed_time": "2026-02-03T13:48:31.266243"
+  },
+  {
+    "id": "20260204162442",
+    "sender": "kannikagiri01@gmail.com",
+    "subject": "what is covid 19",
+    "body": "i need detail info on this",
+    "received_time": "2026-02-04T16:24:42.144377",
+    "status": "read",
+    "processed_time": "2026-02-04T16:24:47.463550"
+  }
+]
